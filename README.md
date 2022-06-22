@@ -1,10 +1,12 @@
 <!-- **aarongraham9/aarongraham9** is a ✨ _special_ ✨ repository because its `README.md` (this file) will appear on my public profile. -->
 
-### Hey, It's Aaron G. Graham here.
+### Hey, It's Aaron Graham here.
 
-I am a Systems Administrator, Researcher and Digital Plumber (Software Developer / DevOps) with [@IBM](https://github.com/IBM)/[@UNB](https://www.unb.ca/) Centre for Advanced Studies - Atlantic ([@CASAtlantic](https://github.com/CAS-Atlantic)) in Fredericton, New Brunswick, Canada - [www.unb.ca/research/casatlantic](http://www.unb.ca/research/casatlantic/). Research and Development on IBM's JVM [@Openj9](https://github.com/eclipse/openj9/) and [@EclipseOMR](https://github.com/eclipse/omr/).
+I am a Software Developer at [Byos Inc. (https://byos.io/)](https://byos.io/) in Halifax, Nova Scotia, Canada working remotely from New Brunswick, Canada. Research and Development on Edge Microsegmentation for Zero Trust Networking.
 
-Research Interests in: Virtual Machines, Managed Runtimes, Garbage Collection, Memory Management, Just-in-Time (JIT) Compilers, Embedded Systems and Operating Systems.
+Formerly a Systems Administrator, Researcher and Digital Plumber (Software Developer / DevOps) with [@IBM](https://github.com/IBM)/[@UNB](https://www.unb.ca/) Centre for Advanced Studies---Atlantic ([@CASAtlantic](https://github.com/CAS-Atlantic)) in New Brunswick, Canada. Research and Development on IBM's [Semeru Runtimes JVM](https://developer.ibm.com/languages/java/semeru-runtimes/) based on the open-source JVM Eclipse [@Openj9](https://github.com/eclipse-openj9/openj9/) and [@EclipseOMR](https://github.com/eclipse/omr/).
+
+Research Interests in: Edge Microsegmentation, Zero Trust Networking, Operating Systems, Embedded Systems, IoT Devices, Virtual Machines, Managed Runtimes, Garbage Collection, Memory Management and Just-in-Time (JIT) Compilers.
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=aarongraham9&show_icons=true)
 
