@@ -2,7 +2,7 @@
 
 ### Hey, It's Aaron Graham here.
 
-I am a Senior Software Engineer at [Ford Motor Company (ford.com)](https://byos.io/) with a team in Palo ALto, California, working remotely from Canada. Making EVs cool!
+I am a Senior Software Engineer at [Ford Motor Company (ford.com)](https://byos.io/), with a team in Palo Alto, California, working remotely from Canada. Making EVs cool!
 
 Formerly a Software Developer at [Byos Inc. (https://byos.io/)](https://byos.io/) in Halifax, Nova Scotia, Canada working remotely from Canada. Research and Development on Edge Microsegmentation for Zero Trust Networking.
 
